@@ -1,1 +1,2 @@
 # python_api_challenge
+This assignment utilizes OpenWeatherAPIs and Geoapify to explore an ideal vacation location and explore correlations between locations of different cities and various weather conditions. Some resources utlized to complete this project included course resources provided by the Berkeley Data Analytics program, and inquiries on StackOverflow such as inclusion of information on hover columns.
